@@ -832,7 +832,7 @@ a[class*="text-"],.icon-color {
     width: 100%;
 }
 
-.about-us {
+.beginnings {
     padding-top: 10rem;
     padding-bottom: 10rem;
     align-items: center;
@@ -840,33 +840,33 @@ a[class*="text-"],.icon-color {
     background-image: url("https://cdn.pixabay.com/photo/2020/04/06/19/57/screw-5011091_960_720.jpg");
 }
 
-.about-us .overlay {
+.beginnings .overlay {
     background: #ffffff;
     opacity: 0.8;
 }
 
 @media (max-width: 992px) {
-    .about-us .custom-row {
+    .beginnings .custom-row {
         flex-direction: column-reverse;
     }
-    .about-us .custom-row .title-wrap {
+    .beginnings .custom-row .title-wrap {
         padding-top: 2rem;
     }
 }
 
 @media (max-width: 992px) {
-    .about-us .custom-row > * {
+    .beginnings .custom-row > * {
         padding-left: 0;
         padding-right: 0;
     }
 }
 
-.about-us .title-block {
+.beginnings .title-block {
     margin: auto;
     width: 100%;
 }
 
-.about-us .image-wrap {
+.beginnings .image-wrap {
     width: 100%;
 }
 
